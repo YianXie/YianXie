@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YianXie
-- 👀 I’m interested in web development and game-making
+- 👀 I’m interested in web development and game-production
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me: [Email](mailto:yianxie52@gmail.com)
